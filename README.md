@@ -5,8 +5,6 @@
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=650px height=50px>
 </p> 
 <br>
-
-
 ## 🙋‍♂️ About Me:
 I'm focused on building responsive, cross-platform mobile applications with Flutter. Passionate about delivering smooth user experiences and writing clean, efficient code. I am currently enhancing my skills in state management, API integration, and app performance optimization to develop impactful mobile solutions.
 
