@@ -28,7 +28,7 @@ API Development: RESTful APIs
 
 ## 🤝 Connect with Me:
 <p align="left">
-  	<a href="linkedin.com/in/eslam-mohamed-852a21235"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width="60" height="30"/></a>
+  	<a href="https://linkedin.com/in/eslam-mohamed-852a21235"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width="60" height="30"/></a>
 	<a href="https://wa.me/+201125739180"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" width="60" height="30"/></a>
 <a href="mailto:eslammohamed19190@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width="60" height="30"/></a>
 </p>
